@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
-    <file url="file://$PROJECT_DIR$/app/src/main/java/com/vzhongbang/app/myasdemo/db/CoolWeatherDB.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/vzhongbang/app/myasdemo/activity/ChooseAreaActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/vzhongbang/app/myasdemo/activity/GuideActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/vzhongbang/app/myasdemo/activity/SplashActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/vzhongbang/app/myasdemo/activity/WeatherActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/vzhongbang/app/myasdemo/db/CoolWeatherDB.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/vzhongbang/app/myasdemo/db/CoolWeatherOpenHelper.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/vzhongbang/app/myasdemo/service/AutoUpdateService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/vzhongbang/app/myasdemo/util/HttpCallbackListener.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/vzhongbang/app/myasdemo/util/HttpUtil.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/vzhongbang/app/myasdemo/util/Utility.java" charset="UTF-8" />
   </component>
 </project>
